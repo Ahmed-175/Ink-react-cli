@@ -8,6 +8,8 @@ My goal is to understand how interactive CLI applications are built so I can rea
 
 I will focus only on the concepts that are commonly used in real-world CLI applications.
 
+[Ink](https://github.com/vadimdemedes/ink)
+
 ---
 
 ## Progress
@@ -16,9 +18,9 @@ I will focus only on the concepts that are commonly used in real-world CLI appli
 
 - [x] Setup project
 - [x] Render first component
-- [ ] Understand Text component
-- [ ] Understand Box component
-- [ ] Understand Flexbox layout
+- [x] Understand Text component
+- [x] Understand Box component
+- [x] Understand Flexbox layout
 
 ### React Basics in Ink
 

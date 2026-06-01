@@ -6,7 +6,7 @@
     "typescript": "^6.0.3"
   },
   "scripts": {
-    "dev": "tsx src/index.tsx"
+    "dev": "tsx src/App.tsx"
   },
   "dependencies": {
     "ink": "^7.0.5",
